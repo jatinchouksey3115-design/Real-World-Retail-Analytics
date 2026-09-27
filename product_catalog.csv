@@ -1,0 +1,21 @@
+Product_ID,Product,Category,Unit_Price
+P001,Laptop,Electronics,55000
+P002,Smartphone,Electronics,28000
+P003,Headphones,Electronics,2500
+P004,Smartwatch,Electronics,6000
+P005,Keyboard,Electronics,1800
+P006,Office Chair,Furniture,8500
+P007,Desk,Furniture,12000
+P008,Bookshelf,Furniture,6500
+P009,Notebook,Stationery,120
+P010,Pen Pack,Stationery,180
+P011,Backpack,Stationery,1400
+P012,Water Bottle,Lifestyle,700
+P013,Yoga Mat,Lifestyle,1200
+P014,Running Shoes,Lifestyle,3500
+P015,T-Shirt,Fashion,900
+P016,Jeans,Fashion,2200
+P017,Jacket,Fashion,3200
+P018,Coffee Maker,Home Appliances,4500
+P019,Mixer Grinder,Home Appliances,3800
+P020,Air Fryer,Home Appliances,7000
